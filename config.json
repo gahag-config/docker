@@ -1,0 +1,4 @@
+{
+	"detachKeys": "ctrl-x,d",
+	"psFormat": "table {{.ID}}\t{{.Names}}\\t{{.Image}}\\t{{.RunningFor}}\\t{{.Status}}"
+}
